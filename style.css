@@ -14,15 +14,25 @@ header {
 }
 
 .headerimg {
-    width: 200px;
+    width: 100%;
     height: auto;
-    margin: 0 auto; 
+    margin: 0 auto;
+     position: relative;
 }
 
 .hedertitle {
-    margin-bottom: 10px;
+    position: relative;
+    font-size: 80px;
+    bottom:500px;
+    left:400px;
 }
-
+.soup{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 780px;
+    top: 200px;
+}
 .line {
     border: none;
     border-top: 1px solid #ccc; 
