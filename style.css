@@ -1,61 +1,72 @@
 * {
     margin: 0;
+    padding: 0;
     font-family: 'Quicksand';
 }
-
 .container {
-    max-width: 800px;
-    margin: 0 auto;
+    background-image: url(soupHedar.jpg);
+    height: 80vh;
 }
-
-header {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.headerimg {
-    width: 100%;
-    height: auto;
-    margin: 0 auto;
-    position: relative;
-}
-
 .hedertitle {
     position: relative;
+    top: 170px;
+    left: 300px;
     color: white;
     font-size: 80px;
-    bottom:500px;
-    left:400px;
+    font-weight:bolder;
+    width: 55vw;
 }
 .soup{
-    width: 100px;
-    height: 100px;
     position: relative;
-    left: 350px;
-    top: 5px;
+    left: 500px;
+    top: 250px;
+    width: 25vw;
+    height: 55vh;
+    transition: transform 0.6s ease;
+}
+.soup:hover {
+    transform: rotate(180deg);
 }
 .line {
-    border: none;
-    border-top: 1px solid #ccc; 
-    margin-top: 20px;
+    border-top: 10px solid #3b3b3b; 
+    margin-top: 50px;
     margin-bottom: 20px;
 }
-.img {
-    display: block;
+.section{
+    height: 65vh;
+}
+.textinfo {
+    width: 600px;
+    text-align: start;
+    font-weight: bold;
+    font-size: 18px;
+    position: relative;
+    left: 380px;
+    top:250px;
+}
+.img1 {
+    position: relative;
+    left: 540px ;
+    top: 280px;
     height: auto;
     width: 250px;
-    margin: 0 auto; 
 }
-
-.list2 {
+.img2 {
+    position: relative;
+    left: 540px ;
+    top: 4px;
+    height: auto;
+    width: 250px;
+}
+.list{
+    width: 30vw;
+    position: relative;
+    left: 375px;
+}
+.section3 {
     display: flex;
     justify-content: center;
 }
-
-.content {
-    max-width: 600px;
-}
-
 ol {
     text-align: center;
 }
@@ -66,25 +77,21 @@ ol li, ul li {
     text-align: justify;
     font-weight: bold;
 }
-
 h3 {
     background-color: rgb(236, 192, 135);
     border-radius: 100px;
-    padding: 5px 10px;
     text-align: left;
     display: inline-block;
 }
-
-.list, .content1 {
-    max-width: 600px;
-    margin: 0 auto;
+.section3 {
+    height: 50vh;
 }
-
-.textinfo {
-    max-width: 600px;
-    margin-left: 0;
-    text-align: justify;
-    font-weight: bold;
+.list2 {
+    width: 600px;
+}
+.lineSec2 , .lineSec1{
+    width: 45vw;
     position: relative;
-    left: 300px;
+    left: 360px;
+    color: #b6b6b6;
 }
