@@ -1,4 +1,4 @@
-#    French-Onion-Soup-CSS(Position)
+# French-Onion-Soup-CSS(Position)
 
 ### Description
 The objective was to design a webpage using only CSS position properties to match a provided design image.
