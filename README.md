@@ -1,7 +1,7 @@
 # French-Onion-Soup-CSS(Position)
 
 ### Description
-The objective is to design a webpage using only CSS positioning properties to match the provided design image.
+The objective is to design a webpage using only CSS Position properties to match the provided design image.
 
 ### Tools:
 - HTML
