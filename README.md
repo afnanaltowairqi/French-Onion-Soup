@@ -1,7 +1,7 @@
-# French-Onion-Soup-CSS(Position)
+# French-Onion-Soup-HW
 
 ### Description
-The objective is to design a webpage using only CSS Position properties to match the provided design image.
+The objective is to design a webpage using only **CSS Position** properties to match the provided design image.
 
 ### Tools:
 - HTML
@@ -25,4 +25,4 @@ Interactive Dish Rotation: When hovering over a dish, it smoothly rotates 180 de
 ### Image of my website:
 ![image](https://github.com/user-attachments/assets/a97504d9-28ac-46b5-9747-927b145c4ce1)
 
-### Thank You
+### Thank You❤️
